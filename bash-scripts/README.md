@@ -1,18 +1,20 @@
 # Bash Scripts Conventions
 
-This conventions file provides guidelines for writing bash scripts that are easily maintainable and debuggable. The conventions here are largely influenced by [Shell Style Guide: Authored, revised and maintained by many Googlers](https://google.github.io/styleguide/shellguide.html).
+This repository contains conventions and best practices for writing robust, maintainable, and secure Bash scripts. Following these guidelines will help ensure consistency, readability, and reliability across Bash scripts.
 
 ## Purpose
 
-These conventions ensure that code is
-
-- simple
-- easy to understand
-- maintainable
+The purpose of this document is to establish a standard for writing Bash scripts by defining best practices for syntax, error handling, security, and readability.
 
 ## Use Cases
 
-This convention is intended for use when writing bash scripts that are critical and intended for use by many users.
+Ensuring consistency in Bash scripting across projects and teams.
+
+Writing maintainable scripts that are easy to understand and modify.
+
+Improving script security by following best practices.
+
+Reducing errors and unexpected behavior in shell scripts.
 
 ## Usage
 
