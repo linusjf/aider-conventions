@@ -1,6 +1,6 @@
 # Bash Scripts Conventions
 
-This repository contains conventions and best practices for writing robust, maintainable, and secure Bash scripts. Following these guidelines will help ensure consistency, readability, and reliability across Bash scripts.
+This repository contains conventions and best practices for writing robust, maintainable, and secure Bash scripts. Following these guidelines will help ensure consistency, readability, and reliability across Bash scripts. These conventions are largely influenced by [Google's Shell Style Guide](https://google.github.io/styleguide/shellguide.html) [(web archive in case of broken link)](https://web.archive.org/web/20250320011254/https://google.github.io/styleguide/shellguide.html).
 
 ## Purpose
 
