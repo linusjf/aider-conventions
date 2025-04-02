@@ -114,7 +114,7 @@
 
 - Always check return values and give informative return values.
 
-- A function called main is required for scripts long enough to contain\
+- A function called `main` is required for scripts long enough to contain\
   at least one other function.
 
 - Put all functions together in the file just below constants.\
